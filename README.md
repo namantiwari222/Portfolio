@@ -1,2 +1,17 @@
-# Portfolio
-Short &amp; Professional: A clean, modern portfolio showcasing my projects, technical skills, and development journey.  Developer Focused: Personal portfolio built to highlight my code, projects, and web development experience.  Casual &amp; Direct: Welcome to my portfolio! Check out the projects and applications I've built.
+# Namantiwari- Exploring the Digital Universe with namantiwari222
+
+Personal portfolio built with React, Vite, Tailwind CSS, Motion and Three.js.
+
+## Run locally
+
+```
+npm install
+npm run dev
+```
+
+## Build
+
+```
+npm run build
+npm run preview
+```
