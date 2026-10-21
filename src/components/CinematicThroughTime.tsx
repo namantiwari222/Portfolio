@@ -33,10 +33,10 @@ const TIMELINE_DATA: TimelineYearData[] = [
   },
   {
     year: '2025',
-    degree: 'B.Sc Computer Science',
+    degree: 'B.Sc',
     institution: 'CSJMU / Science Faculty',
     details: 'Graduated B.Sc. in PCM (Physics, Chemistry, Mathematics) from Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur.',
-    badge: 'GRADUATE MILESTONE',
+    badge: 'GRADUATE',
     xPos: 0,
     yPos: -6,
   },
